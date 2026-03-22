@@ -17,6 +17,8 @@
 # Через Kaggle API
 kaggle datasets download -d flynn28/nhl-player-database
 
+
+
 ## 2. Временные ряды (Human Activity Segmentation)
 Название: Human Activity Segmentation Challenge Dataset
 
@@ -28,3 +30,14 @@ bash
 # Через Git
 git clone https://github.com/patrickzib/human_activity_segmentation_challenge.git
 Описание: Многомерные временные ряды с датчиков движения (акселерометр). Частота дискретизации 50 Гц. Подходит для задач распознавания событий (ходьба, бег, ожидание).
+
+
+## 3. Изображения (Weapon Detection)
+
+**Название:** Weapon Detection Dataset
+
+**Источник:** [Kaggle: snehilsanyal/weapon-detection-test](https://www.kaggle.com/datasets/snehilsanyal/weapon-detection-test)
+
+**Скачивание:**
+```bash
+kaggle datasets download -d snehilsanyal/weapon-detection-test
