@@ -16,7 +16,7 @@
 3. Изображения (кейс №10 — распознавание оружия)
 Название: Weapon Detection Dataset
 
-Ссылка: https://www.kaggle.com/datasets/snehilsanyal/weapon-detection-test
+Ссылка: https://www.kaggle.com/datasets/ankan1998/weapon-detection-dataset
 
 
 4. Текстовые данные (кейс №49 — суммаризация документов)
