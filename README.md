@@ -19,13 +19,9 @@
 Ссылка: https://www.kaggle.com/datasets/ankan1998/weapon-detection-dataset
 
 
-4. Текстовые данные (кейс №49 — суммаризация документов)
-Название: Russian News Summarization Dataset (Russian Summarization Dataset)
+4.	Текстовые данные (кейс №49 — обобщение документов)
+Название: Набор данных CNN / Daily Mail для обобщения текста
 
-Ссылка: https://huggingface.co/datasets/vanya-robot/russian-summarization-dataset
+Ссылка: https://huggingface.co/datasets/cnn_dailymail
+Ссылка 2: https://www.kaggle.com/datasets/gowrishankarp/newspaper-text-summarization-cnn-dailymail
 
-
-5. Аудиоданные (кейс №93 — голосовой помощник)
-Название: Multilingual Speech Command Recognition Dataset (русская часть)
-
-Ссылка: https://github.com/IS2AI/Multilingual-Speech-Command-Recognition
