@@ -20,10 +20,9 @@
 
 
 4. Текстовые данные (кейс №49 — суммаризация документов)
-Название: CNN / Daily Mail Dataset for Text Summarization
+Название: Russian News Summarization Dataset (Russian Summarization Dataset)
 
-Ссылка: https://huggingface.co/datasets/cnn_dailymail
-Ссылка 2: https://www.kaggle.com/datasets/gowrishankarp/newspaper-text-summarization-cnn-dailymail
+Ссылка: https://huggingface.co/datasets/vanya-robot/russian-summarization-dataset
 
 
 5. Аудиоданные (кейс №93 — голосовой помощник)
